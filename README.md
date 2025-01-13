@@ -26,7 +26,7 @@
 
 2. **White Night**  
    - 랜덤 문구 조회 및 즐겨찾기 관리 시스템.  
-   - 기술 스택: Spring Boot, JPA, MariaDB.  
+   - 기술 스택: Spring Boot, MyBatis, MariaDB.  
    - [프로젝트 레포지토리](https://github.com/KIMjongYoun1/WhiteNight)
 
 3. **fbpro - 근무 스케줄 관리 시스템**  
