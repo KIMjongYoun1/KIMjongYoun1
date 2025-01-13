@@ -13,7 +13,7 @@
 🚀 **주요 기술 스택**
 - **언어**: Java, JavaScript
 - **백엔드**: Spring Boot, Spring Framework
-- **데이터베이스**: MariaDB, MyBatis, JPA
+- **데이터베이스**: MariaDB, MyBatis
 - **기타**: RESTful API 설계, Git
 
 ---
