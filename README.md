@@ -34,6 +34,12 @@
    - 주요 기능: 근무 일정 관리, 역할 기반 권한 관리, 근무 유형 설정.  
    - 기술 스택: Spring Boot, Vue.js, MyBatis, MariaDB.  
    - [프로젝트 레포지토리](https://github.com/KIMjongYoun1/fbpro)
+  
+4. **merchantPrince**  
+   - e커머스.  
+   - 주요 기능: 개발중  
+   - 기술 스택: Spring Boot, (Vue.js or React), MyBatis or JPA, MariaDB.  
+   - [프로젝트 레포지토리](https://github.com/KIMjongYoun1/merchantPrince)
 
 
 ---
