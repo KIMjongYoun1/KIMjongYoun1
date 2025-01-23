@@ -40,6 +40,7 @@
    - 주요 기능: 개발중  
    - 기술 스택: Spring Boot, (Vue.js or React) 백앤드 개발이후 채택예정, JPA, MariaDB.  
    - [프로젝트 레포지토리](https://github.com/KIMjongYoun1/merchantPrince)
+   - [작업 기록](https://www.youtube.com/@%EA%B9%80%EC%9C%A4%EB%98%98)
 
 
 ---
