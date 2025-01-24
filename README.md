@@ -38,7 +38,7 @@
 4. **merchantPrince**  
    - e커머스.  
    - 주요 기능: 개발중  
-   - 기술 스택: Spring Boot, (Vue.js or React) 백앤드 개발이후 채택예정, JPA, MariaDB.  
+   - 기술 스택: Spring Boot, Vue.js, JPA, MariaDB.  
    - [프로젝트 레포지토리](https://github.com/KIMjongYoun1/merchantPrince)
 
 
