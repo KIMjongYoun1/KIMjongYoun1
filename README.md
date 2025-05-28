@@ -10,37 +10,35 @@
 
 ---
 
-🚀 **주요 기술 스택**
-- **언어**: Java, JavaScript
-- **백엔드**: Spring Boot, Spring Framework
-- **데이터베이스**: MariaDB, MyBatis
-- **기타**: RESTful API 설계, Git
+# 💼 프로젝트 기술 스택
+
+## 🔹 언어 (Languages)
+- **Java** 
+- **JavaScript / TypeScript** 
+
+## 🔹 프론트엔드 (Frontend)
+- **React**
+- **Vite** 
+- **Axios** 
+- **FullCalendar** 
+
+
+## 🔹 백엔드 (Backend)
+- **Spring Boot** – REST API 
+- **Spring Framework (MVC)** – 
+- **MyBatis** 
+
+## 🔹 데이터베이스 (Database)
+- **MariaDB** 
+
+
+## 🔹 기타 주요 기술
+- **Node.js + Express**
 
 ---
 
 📂 **프로젝트**
-1. **PetitBloom**  
-   - 간단한 SNS 애플리케이션으로, 게시글 CRUD와 댓글, 좋아요 기능 구현.  
-   - 기술 스택: Spring Boot, MyBatis, MariaDB.  
-   - [프로젝트 레포지토리](https://github.com/KIMjongYoun1/PetitBloom)
-
-2. **White Night**  
-   - 랜덤 문구 조회 및 즐겨찾기 관리 시스템.  
-   - 기술 스택: Spring Boot, MyBatis, MariaDB.  
-   - [프로젝트 레포지토리](https://github.com/KIMjongYoun1/WhiteNight)
-
-3. **fbpro - 근무 스케줄 관리 시스템**  
-   - 근로자와 관리자를 위한 근무 스케줄 관리 시스템.  
-   - 주요 기능: 근무 일정 관리, 역할 기반 권한 관리, 근무 유형 설정.  
-   - 기술 스택: Spring Boot, Vue.js, MyBatis, MariaDB.  
-   - [프로젝트 레포지토리](https://github.com/KIMjongYoun1/fbpro)
-  
-4. **merchantPrince**  
-   - e커머스.  
-   - 주요 기능: 개발중  
-   - 기술 스택: Spring Boot, Vue.js, JPA, MariaDB.  
-   - [프로젝트 레포지토리](https://github.com/KIMjongYoun1/merchantPrince)
-
+- ** 아래 레포지토리 클릭
 
 ---
 
