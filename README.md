@@ -24,8 +24,7 @@
 
 
 ## 🔹 백엔드 (Backend)
-- **Spring Boot** – REST API 
-- **Spring Framework (MVC)** – 
+- **Spring Boot**
 - **MyBatis** 
 
 ## 🔹 데이터베이스 (Database)
