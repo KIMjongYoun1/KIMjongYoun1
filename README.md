@@ -13,6 +13,9 @@
 [ 2026 ]
 1. **[Quantum Studio](https://github.com/KIMjongYoun1/3D_Model)** — 비정형 데이터 3D 시각화 플랫폼 (Next.js + Spring Boot + Python)
 
+[ 2025 ]
+1. **[PokeAPI](https://github.com/KIMjongYoun1/PokeAPI)** — 포켓몬 정보 관리 및 이상형 월드컵 (Spring Boot + React + PostgreSQL)
+
 
 ---
 
