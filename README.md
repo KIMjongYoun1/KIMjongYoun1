@@ -10,9 +10,9 @@
 ---
 
 ## 🚀 프로젝트
-
+[ 2026 ]
 1. **[Quantum Studio](https://github.com/KIMjongYoun1/3D_Model)** — 비정형 데이터 3D 시각화 플랫폼 (Next.js + Spring Boot + Python)
-2. *(추가 프로젝트가 있으면 여기에)*
+
 
 ---
 
