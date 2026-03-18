@@ -4,7 +4,7 @@
 
 시스템 운영과 QA가 섞인 업무를 하고 있어요. 문제를 구조적으로 풀고, 그 과정에서 배우는 걸 좋아합니다.
 
-- 📧 **연락처**: rkswlwhddbs1@naver.com
+- 📧 **연락처**: oomg4297@gmail.com
 - 🔗 **GitHub**: [프로필](https://github.com/KIMjongYoun1)
 
 ---
