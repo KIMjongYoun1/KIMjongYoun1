@@ -1,52 +1,45 @@
-# 👋 안녕하세요! 백엔드 개발자 김종윤입니다.
+# 👋 안녕하세요, 김종윤입니다
 
-🌟 **소개**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=System+Ops+%7C+QA)
 
-문제를 해결하고 구조적으로 개선하는 과정에서 성취감을 느끼며 성장하는 백엔드 개발자입니다.  
-고객 경험 개선 업무를 통해 쌓은 **소통 능력과 책임감**을 바탕으로, 기술을 활용해 더 나은 가치를 제공하고자 개발자의 길을 선택했습니다.  
+시스템 운영과 QA가 섞인 업무를 하고 있어요. 문제를 구조적으로 풀고, 그 과정에서 배우는 걸 좋아합니다.
 
-개발 과정에서 발생하는 문제를 분석하고 해결하며 얻는 배움을 즐기며, 꾸준히 성장해 나가고자 합니다.  
-앞으로는 팀과 협력하여 사용자에게 긍정적인 경험을 제공하고, 더 나은 시스템을 만들어가는 개발자가 되는 것이 목표입니다.
-
----
-
-# 💼 프로젝트 기술 스택
-
-## 🔹 언어 (Languages)
-- **Java** 
-- **JavaScript / TypeScript** 
-
-## 🔹 프론트엔드 (Frontend)
-- **React**
-- **Vite** 
-- **Axios** 
-- **FullCalendar** 
-
-
-## 🔹 백엔드 (Backend)
-- **Spring Boot**
-- **MyBatis** 
-
-## 🔹 데이터베이스 (Database)
-- **MariaDB** 
-
-
-## 🔹 기타 주요 기술
-- **Node.js + Express**
+- 📧 **연락처**: rkswlwhddbs1@naver.com
+- 🔗 **GitHub**: [프로필](https://github.com/KIMjongYoun1)
 
 ---
 
-📂 **프로젝트**
-- ** 아래 레포지토리 클릭
+## 🚀 프로젝트
+
+1. **[Quantum Studio](https://github.com/KIMjongYoun1/3D_Model)** — 비정형 데이터 3D 시각화 플랫폼 (Next.js + Spring Boot + Python)
+2. *(추가 프로젝트가 있으면 여기에)*
 
 ---
 
-📫 **연락처**
-- **Email**: rkswlwhddbs1@naver.com
-- **GitHub**: [GitHub 프로필 링크](#)
+## 🛠 기술 스택
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-💡 **목표**
-- 사용자 경험을 향상시키는 백엔드 시스템을 설계하고 구현하는 개발자가 되고 싶습니다.  
-- 지속적으로 학습하고 성장하여 팀과 회사에 기여할 수 있는 개발자가 되는 것이 제 목표입니다.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KIMjongYoun1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMjongYoun1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIMjongYoun1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
