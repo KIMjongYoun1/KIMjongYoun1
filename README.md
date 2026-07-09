@@ -38,7 +38,7 @@ TypeScript 기반 연차 관리 시스템.
 
 **Backend**: Java · Spring Boot · Python · FastAPI · Node.js
 **Frontend**: TypeScript · React · Next.js · Three.js · Tailwind CSS
-**Database/Infra**: PostgreSQL · Redis · Docker · Alembic
+**Database/Infra**: PostgreSQL · Alembic
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -48,7 +48,6 @@ TypeScript 기반 연차 관리 시스템.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
